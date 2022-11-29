@@ -78,8 +78,8 @@ Nest is [MIT licensed](LICENSE).
 {      
   "idPessoa": 2,
   "imgUrl":"https://i.imgur.com/QFMnRjo.jpeg",
-  "nome": "Bruna Maher",
-  "estado": "Espanha",
-  "contato": "bruh@hotmail.com",
-  "sobre": "Gosto de andar de bike no centro de Barcelona"
+  "nome": "Casimiro Martinez",
+  "estado": "Italia",
+  "contato": "case@hotmail.com",
+  "sobre": "Gosto de andar de bike em Roma"
 }
