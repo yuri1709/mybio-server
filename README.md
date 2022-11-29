@@ -71,3 +71,15 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+
+## JSON to insert into FirebaseFirestore
+
+{      
+  "idPessoa": 2,
+  "imgUrl":"https://i.imgur.com/QFMnRjo.jpeg",
+  "nome": "Bruna Maher",
+  "estado": "Espanha",
+  "contato": "bruh@hotmail.com",
+  "sobre": "Gosto de andar de bike no centro de Barcelona"
+}
